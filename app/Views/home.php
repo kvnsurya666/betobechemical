@@ -120,7 +120,6 @@
         <div class="gallery-card">
           <img src="assets/img/electrical-7.jpeg" alt="Electrical 7">
         </div>
-
       </div>
     </div>
     </section>
@@ -133,20 +132,17 @@
       <div class="row">
         <div class="product-card">
           <img src="assets/img/products/Rust Remover.png" alt="Rust Remover" />
-          <h3 class="product-card-title">- BETOBE Rust Remover -</h3>
-          
+          <h3 class="product-card-title">- BETOBE Rust Remover -</h3> 
         </div>
 
         <div class="product-card">
           <img src="assets/img/products/Rust Penetrant.png" alt="Rust Penetrant" />
-          <h3 class="product-card-title">- BETOBE Rust Peneterant -</h3>
-          
+          <h3 class="product-card-title">- BETOBE Rust Peneterant -</h3>  
         </div>
 
         <div class="product-card">
           <img src="assets/img/products/Anti Seize Molybdenum.png" alt="Anti Seize Molybdenum" />
-          <h3 class="product-card-title">- BETOBE Anti Seize Molybdenum -</h3>
-          
+          <h3 class="product-card-title">- BETOBE Anti Seize Molybdenum -</h3>  
         </div>
 
         <div class="product-card">
@@ -154,20 +150,17 @@
             src="assets/img/products/Rubberized Undercoat.png"
             alt="Rubberized Undercoat"
           />
-          <h3 class="product-card-title">- BETOBE Rubberized Undercoat -</h3>
-          
+          <h3 class="product-card-title">- BETOBE Rubberized Undercoat -</h3>  
         </div>
 
         <div class="product-card">
           <img src="assets/img/products/Electrical Switch and Contact Cleaner.png" alt="Anti Seize Molybdenum" />
-          <h3 class="product-card-title">- BETOBE Electrical Switch and Contact Cleaner -</h3>
-          
+          <h3 class="product-card-title">- BETOBE Electrical Switch and Contact Cleaner -</h3>  
         </div>
 
         <div class="product-card">
           <img src="assets/img/products/Penetrating Oil.png" alt="Anti Seize Molybdenum" />
-          <h3 class="product-card-title">- BETOBE Penetrating Oil -</h3>
-          
+          <h3 class="product-card-title">- BETOBE Penetrating Oil -</h3>  
         </div>
         
       </div>
@@ -183,7 +176,7 @@
         <a href="https://www.instagram.com/betobechem/"
           ><i data-feather="instagram"></i
         ></a>
-        <a href="https://api.whatsapp.com/send?phone=6285655131099&amp;text=Halo Bapak/Ibu, Saya dapat nomor dari www.solusiperdanatehnik.com"><i data-feather="phone"></i></a>
+        <a href="https://api.whatsapp.com/send?phone=6285232777499&amp;text=Halo Bapak/Ibu, Saya dapat nomor dari www.solusiperdanatehnik.com"><i data-feather="phone"></i></a>
         
       </div>
       <div class="links">
