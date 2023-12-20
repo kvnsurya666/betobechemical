@@ -98,7 +98,29 @@
         </div>             
         <div class="gallery-card">
           <img src="assets/img/perbaikan-6.jpeg" alt="Perbaikan Mesin 6">
-        </div>             
+        </div>
+        <div class="gallery-card">
+          <img src="assets/img/electrical-1.jpeg" alt="Electrical 1">
+        </div>
+        <div class="gallery-card">
+          <img src="assets/img/electrical-2.jpeg" alt="Electrical 2">
+        </div>
+        <div class="gallery-card">
+          <img src="assets/img/electrical-3.jpeg" alt="Electrical 3">
+        </div>
+        <div class="gallery-card">
+          <img src="assets/img/electrical-4.jpeg" alt="Electrical 4">
+        </div>
+        <div class="gallery-card">
+          <img src="assets/img/electrical-5.jpeg" alt="Electrical 5">
+        </div>
+        <div class="gallery-card">
+          <img src="assets/img/electrical-6.jpeg" alt="Electrical 6">
+        </div>
+        <div class="gallery-card">
+          <img src="assets/img/electrical-7.jpeg" alt="Electrical 7">
+        </div>
+
       </div>
     </div>
     </section>
