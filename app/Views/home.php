@@ -78,7 +78,7 @@
 
     <!-- Gallery Section Start -->
     <section id="gallery" class="gallery">
-    <h2><span>Gallery</span> Foto</h2>
+    <h2><span>Galeri</span> Foto</h2>
     <div class="container">
       <div class="row">
         <div class="gallery-card">

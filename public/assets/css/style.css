@@ -128,13 +128,13 @@ body {
 /* About */
 .about,
 .product,
-.contact {
+.gallery {
   padding: 8rem 7% 1.4rem;
 }
 
 .about h2,
 .product h2,
-.contact h2 {
+.gallery h2 {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 3rem;
@@ -142,7 +142,7 @@ body {
 
 .about h2 span,
 .product h2 span,
-.contact h2 span {
+.gallery h2 span {
   color: var(--primary);
 }
 
@@ -189,18 +189,16 @@ body {
 
 .gallery .gallery-card img {
   width: 80%;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 /* Product Section */
 
-.product h2,
-.contact h2 {
+.product h2 {
   margin-bottom: 1rem;
 }
 
-.product p,
-.contact p {
+.product p {
   text-align: center;
   max-width: 30rem;
   margin: auto;
