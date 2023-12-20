@@ -29,10 +29,10 @@
     <nav class="navbar">
         <a href="#" class="navbar-logo"><img src="assets/img/logo-spt.jpg" alt="Logo Solusi Perdana Tehnik"></a>
         <div class="navbar-nav">
-            <a href="#">Home    </a>
-            <a href="#about">About Us   </a>
-            <a href="#product">Our Products   </a>
-            
+            <a href="#">Home</a>
+            <a href="#about">About Us</a>
+            <a href="#gallery">Gallery</a>
+            <a href="#product">Our Products</a>          
         </div>
         <div class="navbar-extra">
             <a href="#" id="hamburger-menu"><i data-feather=menu></i></a>
@@ -75,6 +75,34 @@
       </div>
     </section>
     <!-- About Section End -->
+
+    <!-- Gallery Section Start -->
+    <section id="gallery" class="gallery">
+    <h2><span>Gallery</span> Foto</h2>
+    <div class="container">
+      <div class="row">
+        <div class="gallery-card">
+          <img src="assets/img/perbaikan-1.jpeg" alt="Perbaikan Mesin 1">
+        </div>             
+        <div class="gallery-card">
+          <img src="assets/img/perbaikan-2.jpeg" alt="Perbaikan Mesin 2">
+        </div>             
+        <div class="gallery-card">
+          <img src="assets/img/perbaikan-3.jpeg" alt="Perbaikan Mesin 3">
+        </div>             
+        <div class="gallery-card">
+          <img src="assets/img/perbaikan-4.jpeg" alt="Perbaikan Mesin 4">
+        </div>             
+        <div class="gallery-card">
+          <img src="assets/img/perbaikan-5.jpeg" alt="Perbaikan Mesin 5">
+        </div>             
+        <div class="gallery-card">
+          <img src="assets/img/perbaikan-6.jpeg" alt="Perbaikan Mesin 6">
+        </div>             
+      </div>
+    </div>
+    </section>
+    <!-- Gallery Section End -->
 
     <!-- Product Section Start -->
     <section id="product" class="product">
@@ -122,7 +150,7 @@
         
       </div>
       <div class="row">
-            <a href="https://shopee.co.id/kevinsuryaa21" class="button">Beli Sekarang</a>
+            <a href="https://shopee.co.id/betobeindonesia" class="button">Beli Sekarang</a>
       </div>
     </section>
     <!-- Product Section end -->
@@ -139,7 +167,7 @@
       <div class="links">
         <a href="#">Home</a>
         <a href="#about">Tentang Kami</a>
-        <a href="#product">Menu</a>
+        <a href="#product">Produk Kami</a>
         
       </div>
       <div class="credit">
