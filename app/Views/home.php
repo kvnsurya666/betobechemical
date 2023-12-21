@@ -146,6 +146,21 @@
         </div>
 
         <div class="product-card">
+          <img src="assets/img/products/Anti Seize Aluminium.png" alt="Anti Seize Aluminium" />
+          <h3 class="product-card-title">- BETOBE Anti Seize Aluminium -</h3>  
+        </div>
+
+        <div class="product-card">
+          <img src="assets/img/products/Anti Seize Nickel.png" alt="Anti Seize Nickel" />
+          <h3 class="product-card-title">- BETOBE Anti Seize Nickel -</h3>  
+        </div>
+
+        <div class="product-card">
+          <img src="assets/img/products/All Purpose Silicone.png" alt="All Purpose Silicone" />
+          <h3 class="product-card-title">- BETOBE All Purpose Silicone -</h3>  
+        </div>
+
+        <div class="product-card">
           <img
             src="assets/img/products/Rubberized Undercoat.png"
             alt="Rubberized Undercoat"
@@ -154,15 +169,83 @@
         </div>
 
         <div class="product-card">
-          <img src="assets/img/products/Electrical Switch and Contact Cleaner.png" alt="Anti Seize Molybdenum" />
+          <img src="assets/img/products/Electrical Switch and Contact Cleaner.png" alt="Electrical Switch and Contact Cleaner" />
           <h3 class="product-card-title">- BETOBE Electrical Switch and Contact Cleaner -</h3>  
         </div>
 
         <div class="product-card">
-          <img src="assets/img/products/Penetrating Oil.png" alt="Anti Seize Molybdenum" />
+          <img src="assets/img/products/Electronic Cleaner.png" alt="Electronic Cleaner" />
+          <h3 class="product-card-title">- BETOBE Electronic Cleaner -</h3>  
+        </div>
+
+        <div class="product-card">
+          <img src="assets/img/products/Battery Cleaner.png" alt="Battery Cleaner" />
+          <h3 class="product-card-title">- BETOBE Battery Cleaner -</h3>  
+        </div>
+
+        <div class="product-card">
+          <img src="assets/img/products/Spray Belt Dressing.png" alt="Spray Belt Dressing" />
+          <h3 class="product-card-title">- BETOBE Spray Belt Dressing -</h3>  
+        </div>
+
+        <div class="product-card">
+          <img src="assets/img/products/Penetrating Oil.png" alt="Penetrating Oil" />
           <h3 class="product-card-title">- BETOBE Penetrating Oil -</h3>  
         </div>
+
+        <div class="product-card">
+          <img src="assets/img/products/Chain and Cable Lube.png" alt="Chain adn Cable Lube" />
+          <h3 class="product-card-title">- BETOBE Chain and Cable Lube -</h3>  
+        </div>
         
+        <div class="product-card">
+          <img src="assets/img/products/Carburator Cleaner.png" alt="Carburator Cleaner" />
+          <h3 class="product-card-title">- BETOBE Carburator Cleaner -</h3>  
+        </div>
+        
+        <div class="product-card">
+          <img src="assets/img/products/Engine Degreaser.png" alt="Engine Degreaser" />
+          <h3 class="product-card-title">- BETOBE Engine Degreaser -</h3>  
+        </div>
+        
+        <div class="product-card">
+          <img src="assets/img/products/Brake and Part Cleaner.png" alt="Brake and Part Cleaner" />
+          <h3 class="product-card-title">- BETOBE Brake and Part Cleaner -</h3>  
+        </div>
+        
+        <div class="product-card">
+          <img src="assets/img/products/Injection Cleaner Foam.png" alt="Injection Cleaner Foam" />
+          <h3 class="product-card-title">- BETOBE Injection Cleaner Foam -</h3>  
+        </div>
+        
+        <div class="product-card">
+          <img src="assets/img/products/Carburator Cleaner Foam.png" alt="Carburator Cleaner Foam" />
+          <h3 class="product-card-title">- BETOBE Carburator Cleaner Foam -</h3>  
+        </div>
+        
+        <div class="product-card">
+          <img src="assets/img/products/Anti Seize Nickel Compound Paste.png" alt="Anti Seize Nickel Compound Paste" />
+          <h3 class="product-card-title">- BETOBE Anti Seize Nickel Compound Paste -</h3>  
+        </div>
+        
+        <div class="product-card">
+          <img src="assets/img/products/Air Freshener Lemon.png" alt="Air Freshener Lemon" />
+          <h3 class="product-card-title">- BETOBE Air Freshener Lemon -</h3>  
+        </div>
+        
+        <div class="product-card">
+          <img src="assets/img/products/Air Freshener Green Apple.png" alt="Air Freshener Green Apple" />
+          <h3 class="product-card-title">- BETOBE Air Freshener Green Apple -</h3>  
+        </div>
+        
+        <div class="product-card">
+          <img src="assets/img/products/Air Freshener Green Tea.png" alt="Air Freshener Green Tea" />
+          <h3 class="product-card-title">- BETOBE Air Freshener Green Tea -</h3>  
+        </div>
+        
+        
+        
+
       </div>
       <div class="row">
             <a href="https://shopee.co.id/betobeindonesia" class="button">Beli Sekarang</a>
