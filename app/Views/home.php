@@ -241,10 +241,7 @@
         <div class="product-card">
           <img src="assets/img/products/Air Freshener Green Tea.png" alt="Air Freshener Green Tea" />
           <h3 class="product-card-title">- BETOBE Air Freshener Green Tea -</h3>  
-        </div>
-        
-        
-        
+        </div>      
 
       </div>
       <div class="row">
