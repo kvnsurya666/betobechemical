@@ -12,11 +12,9 @@ foreach ($kategori as $key => $value) {
     if ($barang->id_kategori == '1') {
       $link = 'antiseize';
     } elseif ($barang->id_kategori == '2') {
-      $link = 'rustcleaner';
-    } elseif ($barang->id_kategori == '3') {
-      $link = 'electroniccleaner';
+      $link = 'cleaner';
     } elseif ($barang->id_kategori == '4') {
-      $link = 'enginelube';
+      $link = 'lubricant';
     } elseif ($barang->id_kategori == '5') {
       $link = 'airfreshener';
     }

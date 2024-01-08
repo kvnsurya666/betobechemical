@@ -54,9 +54,8 @@
           <li class="dropdown"><a href="javascript:void(0)"><span>Our Products</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="<?= site_url('antiseize'); ?>">Anti Seize</a></li>
-              <li><a href="<?= site_url('rustcleaner'); ?>">Rust Cleaner</a></li>
-              <li><a href="<?= site_url('electroniccleaner'); ?>">Electronic Cleaner</a></li>
-              <li><a href="<?= site_url('enginelube'); ?>">Engine Lube</a></li>
+              <li><a href="<?= site_url('cleaner'); ?>">Rust Cleaner</a></li>
+              <li><a href="<?= site_url('lubricant'); ?>">Engine Lube</a></li>
               <li><a href="<?= site_url('airfreshener'); ?>">Air Fresheners</a></li>
             </ul>
           </li>
@@ -91,21 +90,21 @@
             <p>
               <strong>Phone Office</strong><br>
                 <i class="bi bi-telephone"></i>
-                <a href="tel:0313896920" class="nobor">031-3896920</a><br>
+                <a href="tel:0313896920" class="nobor">031-8666845</a><br>
               <strong>E-mail</strong><br>
               <i class="bi bi-envelope"></i> <a class="text-dark " href="mailto:ciptajayalestari@gmail.com"> <u>ciptajayalestari@gmail.com</u></a>
             </p>
             <p>
               <strong>Office</strong><br>
-              <i class="bi bi-house-door"></i> Jalan Kenjeran 300, Block A-7 <br>
-              Surabaya, Jawa Timur, 60145 <br>
+              <i class="bi bi-house-door"></i> Jalan Mahakam blok FP-9<br>
+              Waru, Sidoarjo, Jawa Timur, 61256 <br>
               Indonesia
             </p>
             <p>
               <strong>Warehouse</strong><br>
-              <i class="bi bi-building"></i> Kompleks Pergudangan SiRIE S-7<br>
-              Lingkar Timur, Sidoarjo <br>
-              Jawa Timur
+              <i class="bi bi-building"></i>Perum Taman Wisata Tropodo B-26<br>
+              Waru, Sidoarjo, Jawa Timur 61256 <br>
+              Indonesia
             </p>
 
           </div>

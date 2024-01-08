@@ -10,9 +10,8 @@ class KategoriSeeder extends Seeder
     {
         $data = [
             ['nama_kategori' => 'Anti Seize'],
-            ['nama_kategori' => 'Rust Cleaner'],
-            ['nama_kategori' => 'Electronic Cleaner'],
-            ['nama_kategori' => 'Engine Lube'],
+            ['nama_kategori' => 'Cleaner'],
+            ['nama_kategori' => 'Lubricant'],
             ['nama_kategori' => 'Air Freshener'],
         ];
         $this->db->table('kategori')->insertBatch($data);

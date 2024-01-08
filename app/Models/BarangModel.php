@@ -45,7 +45,7 @@ class BarangModel extends Model
         ];
     }
 
-    function getPageRustcleaner($num)
+    function getPageCleaner($num)
     {
         $builder = $this->builder();
         $builder->join('merk', 'merk.id_merk = barang.id_merk');
@@ -57,19 +57,7 @@ class BarangModel extends Model
         ];
     }
 
-    function getPageElectroniccleaner($num)
-    {
-        $builder = $this->builder();
-        $builder->join('merk', 'merk.id_merk = barang.id_merk');
-        $builder->join('kategori', 'kategori.id_kategori = barang.id_kategori');
-        $builder->where('barang.id_kategori = 3');
-        return [
-            'barang' => $this->paginate($num),
-            'pager' => $this->pager,
-        ];
-    }
-
-    function getPageEnginelube($num)
+    function getPageLubricant($num)
     {
         $builder = $this->builder();
         $builder->join('merk', 'merk.id_merk = barang.id_merk');

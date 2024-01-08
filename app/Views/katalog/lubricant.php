@@ -1,7 +1,7 @@
 <?= $this->extend('layout/default'); ?>
 
 <?= $this->section('title'); ?>
-<title>Electronic Cleaner | SPT</title>
+<title>Lubricant | SPT</title>
 <?= $this->endSection(); ?>
 
 <?= $this->section('home'); ?>
@@ -106,7 +106,7 @@
     <div class="container">
       <ol>
         <li><a href="<?= site_url('home'); ?>">Home</a></li>
-        <li>Electronic Cleaner</li>
+        <li>Engine Lube</li>
       </ol>
     </div>
   </section><!-- End Breadcrumbs -->

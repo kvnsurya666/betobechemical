@@ -50,29 +50,21 @@ class Home extends BaseController
     return view('katalog/antiseize', $data);
   }
 
-    public function rustcleaner()
+    public function cleaner()
   {
-    $data = $this->barang->getPageRustcleaner(8);
+    $data = $this->barang->getPageCleaner(8);
     // $data['pager'] = $this->barang->pager;
     // dd($data);
 
-    return view('katalog/rustcleaner', $data);
+    return view('katalog/cleaner', $data);
   }
-    public function electroniccleaner()
+    public function lubricant()
   {
-    $data = $this->barang->getPageElectroniccleaner(8);
+    $data = $this->barang->getPageLubricant(8);
     // $data['pager'] = $this->barang->pager;
     // dd($data);
 
-    return view('katalog/electroniccleaner', $data);
-  }
-    public function enginelube()
-  {
-    $data = $this->barang->getPageEnginelube(8);
-    // $data['pager'] = $this->barang->pager;
-    // dd($data);
-
-    return view('katalog/enginelube', $data);
+    return view('katalog/lubricant', $data);
   }
     public function airfreshener()
   {

@@ -1,7 +1,7 @@
 <?= $this->extend('layout/default'); ?>
 
 <?= $this->section('title'); ?>
-<title>Rust Cleaner | SPT</title>
+<title>Cleaner | SPT</title>
 <?= $this->endSection(); ?>
 
 <?= $this->section('home'); ?>

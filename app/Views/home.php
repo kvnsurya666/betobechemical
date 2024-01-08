@@ -130,12 +130,12 @@
         </div>
         <div class="col-lg-7 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
-            <h2>Engine Lube</h2>
+            <h2>Lubricant</h2>
             <p>
               Tersedia berbagai macam - macam pelumas untuk kendaraan anda!
             </p>
             <div class="text-center text-lg-start">
-              <a href="<?= site_url('enginelube'); ?>" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+              <a href="<?= site_url('lubricant'); ?>" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                 <span>Lihat Disini</span>
                 <i class="bi bi-arrow-right"></i>
               </a>
