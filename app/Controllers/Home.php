@@ -2,6 +2,10 @@
 
 namespace App\Controllers;
 
+use App\Models\BarangModel;
+use App\Models\KategoriModel;
+use App\Models\MerkModel;
+
 class Home extends BaseController
 {
     function __construct()
