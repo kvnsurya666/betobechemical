@@ -11,13 +11,13 @@
   <div id="carouselSlide" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="<?= base_url('/assets/img/home1.jpg'); ?>" class="d-block w-100" alt="Gambar 1" />
+        <img src="<?= base_url('/assets/img/slider1.jpg'); ?>" class="d-block w-100" alt="Gambar 1" />
       </div>
       <div class="carousel-item">
-        <img src="<?= base_url('/assets/img/home2.jpg'); ?>" class="d-block w-100" alt="Gambar 2" />
+        <img src="<?= base_url('/assets/img/slider2.jpg'); ?>" class="d-block w-100" alt="Gambar 2" />
       </div>
       <div class="carousel-item">
-        <img src="<?= base_url('/assets/img/home3.jpg'); ?>" class="d-block w-100" alt="Gambar 3" />
+        <img src="<?= base_url('/assets/img/slider3.jpg'); ?>" class="d-block w-100" alt="Gambar 3" />
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselSlide" data-bs-slide="prev">
