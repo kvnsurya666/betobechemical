@@ -76,7 +76,7 @@ class Home extends BaseController
     // $data['pager'] = $this->barang->pager;
     // dd($data);
 
-    return view('katalog/airfreshsener', $data);
+    return view('katalog/airfreshener', $data);
   }
 
   public function detail($id = null)
